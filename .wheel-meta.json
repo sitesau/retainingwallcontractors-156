@@ -1,0 +1,22 @@
+{
+  "wheel_id": 816,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-156",
+  "project": "retaining-wall-contractors-myths-9e951d80f81ba6a8e7fa3100c79644",
+  "parent_t1_ref": "retainingwallcontractors-015",
+  "node_role": "buffer",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors myths",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-contractors-myths-9e951d80f81ba6a8e7fa3100c79644/",
+  "tier": "T2",
+  "writeback_nonce": "d62872d3c9de11a5",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-contractors-015/",
+      "anchor": "this retaining wall contractors guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
